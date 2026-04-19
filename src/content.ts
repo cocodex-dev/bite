@@ -6,7 +6,7 @@ export const content: VitrineContent = {
   "schemaVersion": 2,
   "theme": {
     "background": {
-      "base": "#FFFFFF"
+      "base": "#DC2626"
     },
     "container": {
       "base": "#FAFAFA"
