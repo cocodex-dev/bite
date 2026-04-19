@@ -42,25 +42,7 @@ export const content: VitrineContent = {
     "cta": {
       "href": "#contact",
       "label": "Démarrer un projet"
-    },
-    "links": [
-      {
-        "href": "#services",
-        "label": "Services"
-      },
-      {
-        "href": "#about",
-        "label": "À propos"
-      },
-      {
-        "href": "#testimonials",
-        "label": "Témoignages"
-      },
-      {
-        "href": "#contact",
-        "label": "Contact"
-      }
-    ]
+    }
   },
   "hero": {
     "eyebrow": "Studio de design",
